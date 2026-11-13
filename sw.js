@@ -1,6 +1,6 @@
 // Service worker for Kedai Kopi Wahid Su-Qur POS. Caches this small shell so the app opens
 // (and says so when there is no connection) even offline. The app itself always comes live from Google.
-const CACHE = "kedai-kopi-wahid-su-qur-pos-pwa-1794296298955";
+const CACHE = "kedai-kopi-wahid-su-qur-pos-pwa-1794571400809";
 const SHELL = ["./", "index.html", "app-link.js", "manifest.webmanifest", "offline.html", "icon-192.png", "icon-512.png", "icon-maskable-512.png", "apple-touch-icon.png", "favicon.png"];
 const HOME = "index.html";
 const OFFLINE = "offline.html";
